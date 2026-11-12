@@ -4,6 +4,8 @@
 
 Référentiel adapté du [CISA Zero Trust Maturity Model v2.0](https://www.cisa.gov/zero-trust-maturity-model) : 5 piliers (identités, terminaux, réseaux, applications, données), 3 capacités transverses, 25 fonctions, 4 niveaux de maturité.
 
+**[▶ Essayer l'outil en ligne](https://kelyan1.github.io/boussole-zero-trust/)**, rien à installer : cliquez sur « Charger l'exemple » pour voir une évaluation complète.
+
 > J'ai conduit des diagnostics de maturité Zero Trust en mission de conseil. Cet outil industrialise la démarche : il transforme des constats d'entretien en scores, en carte des écarts et en feuille de route présentable à un RSSI.
 
 | Évaluation | Résultats | Feuille de route |
