@@ -1,0 +1,8 @@
+{
+  "name": "boussole-zero-trust",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/node.mjs"
+  }
+}
